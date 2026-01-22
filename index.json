@@ -1,0 +1,13 @@
+{
+  "presets": [
+    {
+      "id": "1",
+      "name": "Initiative tracker test Preset",
+      "author": "@jluc",
+      "description": "Complete fighter sheet with action surge tracking",
+      "file": "presets/test.json"
+    }
+  ],
+  "themes": [],
+  "templates": []
+}
