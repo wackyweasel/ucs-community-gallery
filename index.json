@@ -1,36 +1,5 @@
 {
-  "presets": [
-    {
-      "id": "1",
-      "name": "Preset Fun",
-      "author": "@jluc",
-      "description": "Description Fun",
-      "file": "presets/fun.json"
-    }
-  ],
-  "themes": [
-    {
-      "id": "1",
-      "name": "Theme Fun",
-      "author": "@jluc",
-      "description": "description fun fun",
-      "file": "themes/fun.json"
-    },
-    {
-      "id": "2",
-      "name": "Theme Ugly",
-      "author": "@jluc",
-      "description": "description ugly ugly",
-      "file": "themes/ugly.json"
-    }
-  ],
-  "templates": [
-    {
-      "id": "1",
-      "name": "Deck Fun",
-      "author": "@jluc",
-      "description": "description fun fun fun",
-      "file": "templates/fun.json"
-    }
-  ]
+  "presets": [],
+  "themes": [],
+  "templates": []
 }
