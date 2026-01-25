@@ -1,5 +1,29 @@
 {
-  "presets": [],
-  "themes": [],
-  "templates": []
+  "presets": [
+    {
+      "id": "1",
+      "name": "Middara",
+      "author": "@WackyWeasel",
+      "description": "Middara : Act 1 character preset",
+      "file": "presets/middara.json"
+    }
+  ],
+  "themes": [
+    {
+      "id": "1",
+      "name": "Girly",
+      "author": "@WackyWeasel",
+      "description": "Eye watering pink explosion",
+      "file": "themes/girly.json"
+    }
+  ],
+  "templates": [
+    {
+      "id": "1",
+      "name": "Middara Dice Tray",
+      "author": "@WackyWeasel",
+      "description": "All colored dice for Middara Act 1",
+      "file": "templates/middara_dice_tray.json"
+    }
+  ]
 }
