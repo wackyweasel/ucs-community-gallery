@@ -6,7 +6,14 @@
       "author": "@WackyWeasel",
       "description": "Middara : Act 1 character preset",
       "file": "presets/middara.json"
-    }
+    },
+    {
+      "id": "2",
+      "name": "Traveller",
+      "author": "@WackyWeasel",
+      "description": "Traveller 2e character preset",
+      "file": "presets/traveller.json"
+    },
   ],
   "themes": [
     {
@@ -24,6 +31,13 @@
       "author": "@WackyWeasel",
       "description": "All colored dice for Middara Act 1",
       "file": "templates/middara_dice_tray.json"
+    },
+    {
+      "id": "2",
+      "name": "Traveller Skills",
+      "author": "@WackyWeasel",
+      "description": "Pre-made skills table for Traveller 2e",
+      "file": "templates/traveller_skills.json"
     }
   ]
 }
