@@ -13,6 +13,13 @@
       "author": "@WackyWeasel",
       "description": "Traveller 2e character preset",
       "file": "presets/traveller.json"
+    },
+    {
+      "id": "3",
+      "name": "Monolith",
+      "author": "TheLibrarian",
+      "description": "Character Sheet for indie rpg Monolith",
+      "file": "presets/monolith.json"
     }
   ],
   "themes": [
