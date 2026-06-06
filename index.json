@@ -17,9 +17,16 @@
     {
       "id": "3",
       "name": "Monolith",
-      "author": "TheLibrarian",
+      "author": "@TheLibrarian",
       "description": "Character Sheet for indie rpg Monolith",
       "file": "presets/monolith.json"
+    },
+    {
+      "id": "4",
+      "name": "League of Dungeoneers",
+      "author": "@WackyWeasel",
+      "description": "Character sheet for League of Dungeoneers",
+      "file": "presets/league_of_dungeoneers.json"
     }
   ],
   "themes": [
