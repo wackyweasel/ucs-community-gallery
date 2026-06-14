@@ -80,6 +80,13 @@
       "author": "@WackyWeasel",
       "description": "Track character level automatically from a table of XP threshold values",
       "file": "templates/level_with_thresholds.json"
+    },
+    {
+      "id": "4",
+      "name": "Backpack",
+      "author": "@WackyWeasel",
+      "description": "Inventory with automatic weight calculation",
+      "file": "templates/backpack.json"
     }
   ]
 }
