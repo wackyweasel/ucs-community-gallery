@@ -43,6 +43,20 @@
       "author": "@WackyWeasel",
       "description": "Noble and cozy",
       "file": "themes/cozy_red.json"
+    },
+    {
+      "id": "3",
+      "name": "Barbarian",
+      "author": "@WackyWeasel",
+      "description": "Blood and Bones",
+      "file": "themes/barbarian.json"
+    },
+    {
+      "id": "4",
+      "name": "Eldritch",
+      "author": "@WackyWeasel",
+      "description": "Lovecraftian Horror",
+      "file": "themes/eldritch.json"
     }
   ],
   "templates": [
