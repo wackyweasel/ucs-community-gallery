@@ -73,6 +73,13 @@
       "author": "@WackyWeasel",
       "description": "Pre-made skills table for Traveller 2e",
       "file": "templates/traveller_skills.json"
+    },
+    {
+      "id": "3",
+      "name": "Level with Thresholds",
+      "author": "@WackyWeasel",
+      "description": "Track character level automatically from a table of XP threshold values",
+      "file": "templates/level_with_thresholds.json"
     }
   ]
 }
