@@ -27,6 +27,20 @@
       "author": "@WackyWeasel",
       "description": "Character sheet for League of Dungeoneers",
       "file": "presets/league_of_dungeoneers.json"
+    },
+    {
+      "id": "5",
+      "name": "KNIGHT TTRPG v1",
+      "author": "@Xomerian",
+      "description": "Character sheet for Knight RPG (French version)",
+      "file": "presets/knight_ttrpg_v1.json"
+    },
+    {
+      "id": "6",
+      "name": "Holypunk",
+      "author": "@DOTS",
+      "description": "Have you ever wondered what it'd be like to become a monster? Holypunk explores that, and more. In a world where the Salem witch trials featured real witches (hags disguised as humans) you face a great decision. Powered by DOTS (Decision Oriented Tabletop Systems).",
+      "file": "presets/holypunk.json"
     }
   ],
   "themes": [
