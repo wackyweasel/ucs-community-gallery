@@ -71,6 +71,13 @@
       "author": "@WackyWeasel",
       "description": "Lovecraftian Horror",
       "file": "themes/eldritch.json"
+    },
+    {
+      "id": "5",
+      "name": "Ordem Paranormal",
+      "author": "@aMetsu",
+      "description": "Dark mode of the Ordem sheet",
+      "file": "themes/ordem_paranormal.json"
     }
   ],
   "templates": [
