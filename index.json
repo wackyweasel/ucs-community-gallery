@@ -41,6 +41,13 @@
       "author": "@DOTS",
       "description": "Have you ever wondered what it'd be like to become a monster? Holypunk explores that, and more. In a world where the Salem witch trials featured real witches (hags disguised as humans) you face a great decision. Powered by DOTS (Decision Oriented Tabletop Systems).",
       "file": "presets/holypunk.json"
+    },
+    {
+      "id": "7",
+      "name": "Into the Dungeon Revived",
+      "author": "@TheLibrarian",
+      "description": "A character template for the indie ttrpg Into the Dungeon Revived, an Into the Odd-like game.",
+      "file": "presets/into_the_dungeon_revived.json"
     }
   ],
   "themes": [
