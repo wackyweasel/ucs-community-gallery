@@ -46,8 +46,15 @@
       "id": "7",
       "name": "Into the Dungeon Revived",
       "author": "@TheLibrarian",
-      "description": "A character template for the indie ttrpg Into the Dungeon Revived, an Into the Odd-like game.",
+      "description": "A character preset for the indie ttrpg Into the Dungeon Revived, an Into the Odd-like game.",
       "file": "presets/into_the_dungeon_revived.json"
+    },
+    {
+      "id": "8",
+      "name": "Spellburn and Battlescars",
+      "author": "@TheLibrarian",
+      "description": "A character preset for Spellburn and Battlescars",
+      "file": "presets/spellburn_and_battlescars.json"
     }
   ],
   "themes": [
